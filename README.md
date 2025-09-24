@@ -7,7 +7,7 @@ Hi there 👋
 - `*PyGame*`
 - `*Flask, REST API*`
 - `*SQLite*`
-  ✅ Мои Soft Skills:
+✅ Мои Soft Skills:
 
 -`*Быстрое чтение*`
 -`*Адаптивность*`
