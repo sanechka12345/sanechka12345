@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-`*## 🔧 Мои Hard Skills:*`
+ 🔧 Мои Hard Skills:
 
 - `*Python, ООП, алгоритмы*`
 - `*Telegram, pyrogram*`
@@ -8,7 +8,7 @@
 - `*Flask, REST API*`
 - `*SQLite*`
 
-`*## 📌 Мои проекты:*
+📌 Мои проекты:
 - [Flask API для погоды](https://github.com/user/weather-api)
 - [Telegram бот с мини-играми](https://github.com/user/telegram-bot)
 - [Модель предсказания цен](https://github.com/user/prices)
